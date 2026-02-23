@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Personalized Nutritionist App**
 
-- 🌱 I’m currently learning **Web Development , Model Training , DSA**
+- 🌱 I’m currently learning **Machine Learning , Model Training , Aritifical Intelligence**
 
 - 👯 I’m looking to collaborate on **AI / ML Projects**
 
