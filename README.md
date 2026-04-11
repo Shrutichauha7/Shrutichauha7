@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shruti Chauhan</h1>
 <h3 align="center">Passionate About Data, Driven by Algorithms</h3>
 
-- 🔭 I’m currently working on **Personalized Nutritionist App**
+- 🔭 I’m currently working on **Mlops Projects**
 
 - 🌱 I’m currently learning **Machine Learning , Model Training , Aritifical Intelligence**
 
